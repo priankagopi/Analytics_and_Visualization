@@ -7,7 +7,7 @@ The dataset consists of hospital ER data, including patient demographics, appoin
 ## Key Findings
 - Average Wait Time: The report examines how long patients typically wait before their appointments./n
 - Patient Satisfaction: Analysis of average patient satisfaction scores to identify factors contributing to a positive patient experience. Recommendations for enhancing patient satisfaction based on data-driven insights.
-- Total Patient Visits Monthly: Overview of patient visit patterns on a monthly basis. It is important to understand the dynamics of healthcare demand over time to optimize resource allocation and staffing.
+- Total Patient Visits Monthly: Overview of patient visit patterns every month. It is important to understand the dynamics of healthcare demand over time to optimize resource allocation and staffing.
 - Administrative vs. Non-Administrative Appointments: Differentiation between appointments involving administrative processes (e.g., check-ins, paperwork) and non-administrative appointments.
 - Exploration of how these factors impact wait times and overall patient satisfaction.
 - Referrals and Walk-In Patients: Examination of the balance between patients referred to specific departments and those who arrive without a referral — analysis of how these factors affect the overall patient experience.
@@ -30,6 +30,5 @@ Department Referral: The department to which the patient was referred, if applic
 
 ## How to Use This Report
 1. Clone this repository to your local machine to access the Power BI report file and the dataset.
-git clone https://github.com/yourusername/hospital-er-analysis.git
-2. Open the Power BI Desktop application and load the provided .pbix file.
-3. Use the interactive features to filter, slice, and analyze the data based on your specific needs.
+3. Open the Power BI Desktop application and load the provided .pbix file.
+4. Use the interactive features to filter, slice, and analyze the data based on your specific needs.
