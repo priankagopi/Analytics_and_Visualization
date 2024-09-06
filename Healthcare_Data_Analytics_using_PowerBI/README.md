@@ -1,6 +1,8 @@
 # Hospital ER Patient Healthcare Data Analysis
 This Power BI project provides an in-depth analysis of hospital Emergency Room (ER) patient data, uncovering crucial insights into patient wait times, satisfaction, and overall hospital efficiency. The report explores various aspects of patient care, including demographics, appointment types, and healthcare demands over time.
 
+![Dashboard](https://github.com/user-attachments/assets/2e88fe6c-1bc8-4737-9b75-9df9a6467160)
+
 ## Project Overview
 The dataset consists of hospital ER data, including patient demographics, appointment types, wait times, and patient satisfaction scores. The goal of this analysis is to help identify patterns, trends, and factors that impact patient experience and hospital efficiency. The findings provide valuable insights for healthcare administrators and practitioners to make data-driven decisions to improve patient care and hospital management.
 
